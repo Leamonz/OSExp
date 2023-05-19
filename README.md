@@ -1,6 +1,7 @@
 # OSExp
-SCU 操作系统实验课 共4个实验
-___
+
+SCU 操作系统实验课实验 共4个实验
+
 ## [实验一、Linux编程基础](https://github.com/Leamonz/OSExp/tree/master/OSExp1)
 1. Linux基本命令
 2. shell编程
