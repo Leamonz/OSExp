@@ -15,10 +15,11 @@ SCU 操作系统实验课实验 共4个实验
 
 ## [实验三、互斥与同步实验](https://github.com/Leamonz/OSExp/tree/master/OSExp3)
 实现了三种经典的同步互斥问题，以及一个附加的同步互斥问题
-- 生产者-消费者问题
-- 读者-写者问题
-- 哲学家就餐问题
+- [生产者-消费者问题](https://github.com/Leamonz/OSExp/blob/master/OSExp3/Producer_Customer.cpp)
+- [读者-写者问题](https://github.com/Leamonz/OSExp/blob/master/OSExp3/Reader_Writer.cpp)
+- [哲学家就餐问题](https://github.com/Leamonz/OSExp/blob/master/OSExp3/Philosopher.cpp)
   哲学家就餐问题需要避免死锁产生，此处我选择的避免死锁的方法是一次只允许一名哲学家就餐
+- [过桥问题](https://github.com/Leamonz/OSExp/blob/master/OSExp3/Bridge.cpp)
   
 ## [实验四、内存管理实验](https://github.com/Leamonz/OSExp/tree/master/OSExp4)
 1. 观察[virtumem.cpp](https://github.com/Leamonz/OSExp/blob/master/OSExp4/virtumem.cpp)的运行结果并分析
